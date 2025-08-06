@@ -1,1 +1,2 @@
 Hi this is testing file 3. It's created for testing purpose.
+This chnages doing to test diff commnad.
